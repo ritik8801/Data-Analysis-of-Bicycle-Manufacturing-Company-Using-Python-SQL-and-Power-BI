@@ -61,7 +61,7 @@ This page gives information about the manufacturing overview of the company, Mea
 
 <img width="1024" alt="Donut Chart" src="https://raw.githubusercontent.com/ritik8801/Data-Analysis-of-Bicycle-Manufacturing-Company-Using-Python-SQL-and-PowerBI/main/Dashboard%20Screenshots%20and%20Features/Actual%20Cost%20of%20production%20by%20Assembly%20location.jpg">
 
-* Waste cost by year line chart. A simple chart showing how money is the company wasting on discarded products and what is the trend. *
+* Waste cost by year line chart. A simple chart showing how much money is the company wasting on discarded products and what is the trend. *
 
 <img width="1024" alt="Donut Chart" src="https://raw.githubusercontent.com/ritik8801/Data-Analysis-of-Bicycle-Manufacturing-Company-Using-Python-SQL-and-PowerBI/main/Dashboard%20Screenshots%20and%20Features/Waste%20cost%20by%20the%20Year.jpg">
 
